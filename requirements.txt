@@ -1,9 +1,9 @@
 streamlit
 pandas
-numpy<2
+numpy>=2.0.0
 joblib
 matplotlib
-statsmodels
+statsmodels>=0.14.2
 tensorflow-cpu
 scikit-learn
-h5py
+h5py>=3.11.0
