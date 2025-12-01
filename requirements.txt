@@ -5,4 +5,5 @@ joblib
 matplotlib
 statsmodels
 tensorflow-cpu
-sklearn
+scikit-learn
+h5py
